@@ -1,6 +1,10 @@
 kjtg
 dfldf
+<<<<<<< HEAD
 lf,
 
 hghg
 jm
+=======
+lf,
+>>>>>>> parent of e6e2aa8... new 2.txt
